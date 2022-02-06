@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout << "Hey, you!";
+  cout << "How's it going?";
+  cout << "I am a potato.";
+}

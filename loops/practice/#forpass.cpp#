@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main () {
+  string username = "bobke";
+  string password = "123abc";
+  string usernameInput;
+  string passwordInput;
+  for(i=3; i>0; i--){
+    cout << "Enter username:";
+    cin >> 
+    
